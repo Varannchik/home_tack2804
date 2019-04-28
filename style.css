@@ -139,6 +139,8 @@ input {
 .menu {
   grid-column-start: 1;
   grid-column-end: 2;
+  grid-row-start: 1;
+  grid-row-end: 3;
   background: #1D2024;
 }
 .menu a {
